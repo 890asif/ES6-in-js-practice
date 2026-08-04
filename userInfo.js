@@ -18,7 +18,7 @@ function extractUserInfo(userObj) {
 
 console.log(
     extractUserInfo({
-        user: { name: "Sadia", age: 22 },
-        hobbies: ["reading", "coding"]
+        user: { name: "Asif", age: 21 },
+        hobbies: ["Coding", "Listening Music"]
     })
 );
