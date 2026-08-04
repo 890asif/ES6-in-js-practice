@@ -14,7 +14,7 @@ function highestScore(scores){
         return Math.max(...scores)
     }
 console.log(mergeInventory([1,2],[3,4]))
-console.log(mergeInventory("1,2,3,4,5"))
+console.log(mergeInventory("1,2,3,4"))
 
 console.log(highestScore([3,7,2,9,4]))
 console.log(highestScore("3,7,2"))
