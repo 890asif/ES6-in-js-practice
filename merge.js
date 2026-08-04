@@ -19,4 +19,3 @@ console.log(mergeInventory("1,2,3,4"))
 
 console.log(highestScore([3,7,2,9,4]))
 console.log(highestScore("3,7,2"))
-
